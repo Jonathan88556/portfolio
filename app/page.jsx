@@ -8,6 +8,7 @@ import profilePicture from '../public/cvfoto.png'
 import project1 from '../public/project1.png'
 import project2 from '../public/project2.png'
 import project3 from '../public/project3.png'
+import project4 from '../public/project4.png'
 import './app.css';
 
 const inter = Inter({ subsets: ['latin'] })
@@ -152,7 +153,7 @@ export default function Home() {
               </div>
               <div className="card">
                 <Image
-                  src={project1}
+                  src={project4}
                   alt={'Project 4 voorbeeld'}
                   width={350}
                   height={450}
