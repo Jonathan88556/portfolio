@@ -130,9 +130,9 @@ export default function Home() {
               </div>
             </div>
             <div className="project">
-              <h1 className='project-title'>Koop-Verkoop</h1>
+              <h1 className='project-title'>Boss Fight</h1>
               <div className='project-text'>
-                Deze website heb ik samen gemaakt met 2 vrienden. En mijn oplevering bij dit project is de back-end. Op deze website kun je een account aanmaken waarna een sneaker kan uploaden. En andere gebruikers kunnen deze sneakers kopen. Dit was een grote aanpak voor mij, want ik had nog nooit een inlog systeem gemaakt en dit was ook de eerste keer dat ik met relational databases heb gewerkt.<p className='project-click'><a href='https://88556.stu.sd-lab.nl/beroeps/verzamelaar/index.php' target={'_blank'}>Klik hier om dit project te bekijken</a></p>
+                Dit is een boss fight game gemaakt in JavaScript.<p className='project-click'><a href='https://88556.stu.sd-lab.nl/bossfight/index.html' target={'_blank'}>Klik hier om dit project te bekijken</a></p>
               </div>
               <div className="card">
                 <Image
